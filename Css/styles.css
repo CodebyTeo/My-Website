@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+
+h1 {
+    font-size: 5.62rem;
+    margin-top: 0;
+    margin-bottom: 0px;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+
+}
+
+h3 {
+   font-family: 'Montserrat', sans-serif;
+   color: #66BFBF;
+}
+
+.top-container {
+    background-color: #C8FFE0;
+    position: relative;
+    padding-top: 100px
+
+
+}
+
+.middle-container {
+    padding-top: 100px;
+    padding-bottom: 0px;
+    padding-left: 0;
+    padding-right: 0;
+
+
+}
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+
+}
+.top-cloud {
+    position:absolute;
+    right: 300px;
+    top: 50px
+}
+.bottom-cloud {
+    position: absolute;
+}
+
+.middle-cloud {
+    position: absolute;
+    right: 400px;
+    bottom: 250px;
+}
+
+a {
+    color: #11999E;
+    padding: 30px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+
+}
+a:hover{
+    color: #EAF6F6;
+}
+.bio {
+    font-weight: normal;
+
+}
+
+.skill-row {
+    width: 40%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    font-family: 'Montserrat', sans-serif;
+}
+.computer {
+    float: left;
+    margin-right: 30px;
+}
+
+.software {
+    float: right;
+    margin-right: 30px;
+}
+.bio-description {
+    color: # 40514E;
+    padding: 30px;
+    line-height: 2;
+    width: 30%;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto;
+}
+.copyright {
+    color: #EAF6F6
+}
+.btn {
+  -webkit-border-radius: 21;
+  -moz-border-radius: 21;
+  border-radius: 21px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 25px;
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+
+.contact-me {
+    width: 40%;
+    margin: auto;
+    line-height: 2;
+    font-family: 'Montserrat', sans-serif;
+}
